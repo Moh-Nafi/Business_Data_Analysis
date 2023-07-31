@@ -1,4 +1,4 @@
-# Bike Sharing Business Dataset: Daily Ride Statistics and User Counts
+# Bike Sharing Business Data Analysis: Daily Ride Statistics and User Counts
 
 
 This project entails conducting a comprehensive analysis of a bike sharing business dataset to derive actionable insights that can inform strategic business decisions.
