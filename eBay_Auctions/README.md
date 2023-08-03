@@ -26,4 +26,6 @@ The file eBayAuctions.csv contains information on 1972 auctions transacted on eB
 ### Output result of question 2
 ![image](https://github.com/Moh-Nafi/Business_Data_Analysis/assets/133475571/33febdec-4f7b-46b2-9efd-0ad934c0daa5)
 
-###Output result of question 
+###Output result of question 5
+![image](https://github.com/Moh-Nafi/Business_Data_Analysis/assets/133475571/dcb28626-3d6a-4853-b303-c2eb89e95774)
+
