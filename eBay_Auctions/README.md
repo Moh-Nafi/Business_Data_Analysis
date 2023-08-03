@@ -15,5 +15,8 @@ The file eBayAuctions.csv contains information on 1972 auctions transacted on eB
 
 5. Fit another default classification tree. This time only use the predictors that can be used for predicting the outcome of a new auction. Describe the resulting tree in terms of rules.
 
-6. Use the classification tree we built in the previous step to predict whether the following auction is competitive or not. 
-7. Based on this last tree, what can you conclude from these data about the chances of an auction obtaining at least two bids and its relationship to the auction settings set by the seller (duration, opening price, currency)? What would you recommend for a seller as the strategy that will most likely lead to a competitive auction?
+6. Use the classification tree we built in the previous step to predict whether the following auction is competitive or not.
+
+&nbsp;&nbsp;&nbsp;  ![image](https://github.com/Moh-Nafi/Business_Data_Analysis/assets/133475571/d46aedf7-c2cb-4723-9db1-546ea83ec1e9)
+
+8. Based on this last tree, what can you conclude from these data about the chances of an auction obtaining at least two bids and its relationship to the auction settings set by the seller (duration, opening price, currency)? What would you recommend for a seller as the strategy that will most likely lead to a competitive auction?
